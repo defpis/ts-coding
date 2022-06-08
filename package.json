@@ -1,0 +1,19 @@
+{
+  "name": "practices",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "@types/chai": "*",
+    "@types/lodash": "*",
+    "@types/mocha": "*",
+    "@types/node": "*",
+    "chai": "*",
+    "lodash": "*",
+    "mocha": "*",
+    "ts-node": "*",
+    "typescript": "*"
+  }
+}
